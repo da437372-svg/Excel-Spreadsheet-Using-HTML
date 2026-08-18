@@ -1,4 +1,4 @@
-# Excel-Spreadsheet-Using-HTML
+# Flask to Excel Data Logger
 A beginner-friendly Flask web application that takes user input from an HTML form and automatically logs the data row-by-row into a local Microsoft Excel spreadsheet (`.xlsx`). 
 
 > 💡 **Note for Beginners:** I built this project using **AI code generation** to help create and refine the Python backend logic. This guide is written specifically to help other beginners understand how the files connect and how to run the app step-by-step!
